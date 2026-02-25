@@ -1,2 +1,6 @@
 # JS-Exercise
-This is all the JS Exercises
+
+In this repository, I will share all my JavaScript exercises and practice tasks as I continue improving my skills🚀
+
+✅ Exercise 1 Submitted
+
