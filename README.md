@@ -10,5 +10,8 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 
 ✅ Exercise 3 loading
 
+✅ Exercise 4 loadin
+
+
 
 
