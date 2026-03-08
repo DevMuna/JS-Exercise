@@ -10,4 +10,4 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 
 ✅ Exercise  4 function Declaration and function Expression 
 
-✅ Exercise  5 
+✅ Exercise  5 Arrow function
