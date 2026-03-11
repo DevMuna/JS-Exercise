@@ -14,7 +14,4 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 
 ✅ Exercise  6 Array
 
-✅ Exercise  6 Array Methods
-
-
-
+✅ Exercise  7 Array Methods
