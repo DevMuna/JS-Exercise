@@ -12,4 +12,4 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 
 ✅ Exercise  5 Arrow function
 
-✅ Exercise  6 loading.................
+✅ Exercise  6 Array 
