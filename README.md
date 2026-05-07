@@ -21,5 +21,7 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 ✅ Exercise  9 Method in Objects
 
 ✅ Exercise  10  Array of Object
-
+~
 ✅ Exercise  11  for Loop
+# this is paragraph
+
