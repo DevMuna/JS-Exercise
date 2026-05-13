@@ -28,9 +28,4 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 
 ✅ Exercise  13  while loop
 
-
-
-
-
-
-
+✅ Exercise  14  do while loop
