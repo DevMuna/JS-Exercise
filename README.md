@@ -35,5 +35,3 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 ✅ Exercise  16 conditional statements
 
 ✅ Exercise  17 esle if statements
-
-
