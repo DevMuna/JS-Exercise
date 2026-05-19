@@ -40,5 +40,8 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 
 ✅ Exercise  19 foreach method
 
+✅ Exercise  20 map method
+
+
 
  
