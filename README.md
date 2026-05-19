@@ -38,10 +38,10 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 
 ✅ Exercise  18 Ternary operator
 
-✅ Exercise  19 foreach method
+✅ Exercise  19 forEach method
 
-✅ Exercise  20 map method
+✅ Exercise  20 Map method
 
-✅ Exercise  21 reduce method
+✅ Exercise  21 Reduce method
 
  
