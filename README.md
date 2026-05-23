@@ -43,8 +43,7 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 ✅ Exercise  20 Map method
 
 ✅ Exercise  21 Reduce method
-
-✅ Exercise  22 
+✅ Exercise  22 Destructing array
 
 
  
