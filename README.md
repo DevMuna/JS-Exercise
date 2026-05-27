@@ -51,8 +51,5 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 
 ✅ Exercise  24 Default parameter
 
-✅ Exercise  25 Spread operator
-
-
-
+✅ Exercise  25 Spread operator and Rest operator
 
