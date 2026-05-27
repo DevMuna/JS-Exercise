@@ -12,6 +12,7 @@ function mult(...numbers) {
 }
 console.log(mult(2, 3, 5, )); 
 console.log(mult(10, 4));
+console.log(mult(22 ,2));
 
 
 
