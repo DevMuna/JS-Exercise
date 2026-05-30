@@ -53,3 +53,6 @@ In this repository, I will share all my JavaScript exercises and practice tasks 
 
 ✅ Exercise  25 Spread operator and Rest operator
 
+✅ Exercise  26 Blocking and blocking exercisess
+
+
