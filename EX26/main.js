@@ -2,7 +2,7 @@ function getUserInfo() {
     alert("Fetching profile data");
 
     return {
-        name: "Amina Ahmed ",
+        name: "Aamina Abdulkader",
         nationality: "Somalia",
         age: 25,
         
@@ -26,7 +26,7 @@ console.log("Part 2");
 function getUserInformation(callback) {
     setTimeout(() => {
         const user = {
-            name: "Mohamed Abdullahi",
+            name: "yahye Abdullahi",
             nationality: "Somalia",
             age: 29
         };
